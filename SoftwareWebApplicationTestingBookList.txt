@@ -1,0 +1,5 @@
+Books on Software/Web Application Testing
+
+The Confidence Code: The Science and Art of Self-Assurance---What Women Should Know
+by Kathy Kay and Claire Shipman
+ISBN: 978-0062230621
